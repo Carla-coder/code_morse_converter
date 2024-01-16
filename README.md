@@ -10,5 +10,5 @@ Tecnologias utilizadas:
 - Css
 - JavaScript
 
-  Este projeto aprendi na Escola Senai - unidade Jaguariúna - SP com o professor Renato Sartori
+Este projeto aprendi na Escola Senai - unidade Jaguariúna - SP com o professor Renato Sartori
 
