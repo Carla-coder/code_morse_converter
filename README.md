@@ -10,9 +10,9 @@ O "Morse Code Converter" é uma aplicação desenvolvida em JavaScript que permi
 
 ## Recursos Principais:
 
-*Conversão Bidirecional: A aplicação permite a conversão de texto para código Morse. Basta inserir a mensagem desejada e experimentar a magia da comunicação em código Morse.
+* Conversão Bidirecional: A aplicação permite a conversão de texto para código Morse. Basta inserir a mensagem desejada e experimentar a magia da comunicação em código Morse.
 
-*Interface Intuitiva: Desenvolvi uma interface de usuário amigável, com design limpo e intuitivo. Os usuários podem facilmente interagir com a aplicação, tornando-a acessível mesmo para iniciantes.
+* Interface Intuitiva: Desenvolvi uma interface de usuário amigável, com design limpo e intuitivo. Os usuários podem facilmente interagir com a aplicação, tornando-a acessível mesmo para iniciantes.
 
 ## Instituição
 
